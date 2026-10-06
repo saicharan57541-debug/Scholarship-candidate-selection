@@ -1,0 +1,8 @@
+{
+  "name": "Scholarship Candidate Selection System",
+  "description": "Comprehensive web platform for educational institutions to evaluate, verify, and select scholarship candidates based on academic performance and family financial background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
